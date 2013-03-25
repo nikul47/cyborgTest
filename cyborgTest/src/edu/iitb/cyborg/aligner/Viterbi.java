@@ -39,6 +39,8 @@ public class Viterbi {
 	int backptr[];
 	int index;
 	
+   // Testing Github
+	
 	/**
 	 * This function takes the state number and the feature vector and
 	 * calculates the log likelihood value.
