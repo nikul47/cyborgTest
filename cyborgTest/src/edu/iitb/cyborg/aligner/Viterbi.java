@@ -26,7 +26,7 @@ import java.io.IOException;
  * input file which is to be aligned. 
  * It computes the MFC features of the wav file and stores it in the same path as of audioInput file.
  * <p/>
- * Compulsary parameters
+ * Compulsory parameters
  * <li> -models folder where all the model files are stored</li>
  * <li> -i audio input file</li>
  *
@@ -38,10 +38,6 @@ public class Viterbi {
 	double newCost;
 	int backptr[];
 	int index;
-	
-   // Testing Github
-   // Second test
-	// Third test after Tor exited!!
 	
 	/**
 	 * This function takes the state number and the feature vector and
