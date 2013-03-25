@@ -40,6 +40,7 @@ public class Viterbi {
 	int index;
 	
    // Testing Github
+   // Second test
 	
 	/**
 	 * This function takes the state number and the feature vector and
